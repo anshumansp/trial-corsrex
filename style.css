@@ -100,7 +100,7 @@ section {
     position: relative;
     height: 100vh;
     width: 100%;
-    background: url(imgs/background-2.avif);
+    background: url(./background-2.avif);
     background-size: cover;
     background-position: center;
     display: grid;
@@ -308,7 +308,7 @@ header.sticky {
 }
 
 .courses {
-    background: url(imgs/background-2.avif);
+    background: url(./background-2.avif);
     background-size: cover;
     background-position: center;
 }
@@ -409,7 +409,7 @@ header.sticky {
 }
 
 .about {
-    background: url(imgs/background-2.avif);
+    background: url(./background-2.avif);
     background-size: cover;
     background-position: center;
     display: grid;
