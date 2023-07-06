@@ -649,6 +649,12 @@ header.sticky {
     }
 }
 
+@media (max-width: 768px) {
+    header {
+        padding: 23px 5%;
+    }
+}
+
 
 
 /* * {
