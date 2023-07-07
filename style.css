@@ -627,7 +627,7 @@ header.sticky {
         position: fixed;
         right: 0;
         top: 0;
-        width: 40%;
+        width: 50%;
         max-width: 50%;
         height: 800vh;
         background: var(--main-color);
